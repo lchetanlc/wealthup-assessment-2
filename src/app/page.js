@@ -144,7 +144,7 @@ import logos from './logos.png'
               <div>Simrin Sirur</div>
               <div>Journalist</div>
               <div class="text-sm dark:text-gray-400">The Print, Gurugram</div>
-              <div class="w-[450px] text-l relative top-[10px]">`"I was afraid to learn about investments and savings because it seemed to fly over my head, but Ankit was extremely patient and walked me through everything... I now feel more confident to handle my own money."`</div>
+              <div class="w-[450px] text-l relative top-[10px]">&quot;I was afraid to learn about investments and savings because it seemed to fly over my head, but Ankit was extremely patient and walked me through everything... I now feel more confident to handle my own money.&quot;</div>
             </div>
           </figcaption>
           <Image class="rounded-full w-6 h-7" src={icon} alt="arrow" />
